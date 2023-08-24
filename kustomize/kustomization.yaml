@@ -4,5 +4,5 @@ namespace: flagger-bin
 resources:
   # - hpa.yaml
   - deployment.yaml
-  - service.yaml
+  # - service.yaml
 
